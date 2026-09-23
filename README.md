@@ -12,3 +12,12 @@ A simple Python CLI (Command Line Interface) script that interacts with the user
    ```bash
    python3 intro_bot.py
    ```
+## Example
+
+```text
+What is your name? Ivan
+What language are you learning? Python
+What is your goal this year? Get a freelance client
+
+Hello! My name is Ivan. I am learning Python to achieve my goal: Get a freelance client.
+```
